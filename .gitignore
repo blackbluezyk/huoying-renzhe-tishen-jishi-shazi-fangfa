@@ -1,0 +1,13 @@
+monitor-settings.xml*
+overlay-layout.txt
+test-artifacts/
+obj/
+work/
+history/
+*.pdb
+*.user
+*.suo
+*.py
+VERIFICATION.txt
+ROLLBACK.sh
+REFERENCE_NETWORK.patch

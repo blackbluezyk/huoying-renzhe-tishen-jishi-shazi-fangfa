@@ -49,4 +49,3 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\tests\run.ps1
 - 这是非官方工具，不与游戏发行方关联；没有反作弊绕过或内存修改功能。
 
 详见 [测试说明](docs/TESTING.md)。
-
